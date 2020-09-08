@@ -1,7 +1,7 @@
 # Photomosaics
+This is a ongoing project.
 # Dependencies
 * Python >= 3.5
-This is a ongoing project.
 * Pillow (PIL Fork) v7.2.0
 
 # NOTE:
